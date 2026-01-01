@@ -1,2 +1,3 @@
-# Concept
-Concept design for High Score Club - A web3 challenge based platform on Solana
+# High Score Club
+
+High Score Club is a Web3, skill-based competitive gaming platform built on Solana. Mobile-first, X-integrated, and centered on verifiable gameplay and $SCORE token mechanics.
